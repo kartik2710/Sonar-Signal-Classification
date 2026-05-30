@@ -84,10 +84,10 @@ The final model demonstrated strong performance in distinguishing sonar signals 
 
 | Metric    | Score |
 | --------- | ----- |
-| Accuracy  | XX%   |
-| Precision | XX%   |
-| Recall    | XX%   |
-| F1-Score  | XX%   |
+| Accuracy  | 93%   |
+| Precision | 88%   |
+| Recall    | 100%   |
+| F1-Score  | 94%   |
 
 > Replace the above values with your actual model results.
 
